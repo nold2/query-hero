@@ -1,0 +1,21 @@
+{
+  "name": "fun-fun-query",
+  "version": "1.0.0",
+  "description": "Learn SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc",
+    "start": "nodemon build/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "4.17.0",
+    "nodemon": "^1.19.1",
+    "typescript": "3.5.2"
+  }
+}
